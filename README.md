@@ -1,5 +1,8 @@
 # Pewlett-Hackard-Analysis
-HR Analysis of retiring employees and future job openings.
+HR Analysis for future-proofing the company by determining how many people will be retiring and if there are enough senior employees to mentor new leaders.
+
+## Challenge
+The objective of this challenge was to help Pewlett Hackard evaluate the number of employees that would be retiring in each department and if there were enough senior employees eligible for mentorship programs to fill those roles.
 
 ## Results
 Analysis of retiring employees by title shows that there is an overwhelming number of Senior Engineers, Senior Stafff and Engineers that will retire and need to be replaced. 
@@ -13,4 +16,9 @@ There will be 90,398 employees retiring. The number of employees retirng by titl
 ![Retiring_titles.PNG](/analysis/Retiring_titles.PNG)
 
 
-There are 1549 employees that are eligible for a mentorship program. This should be enough to mature employees to take leadership roles.
+There are 1549 employees that are eligible for a mentorship program. This is not enough current employees to take on senior and leadership roles at Pewlett Hackard. Additional hiring of senior engineers and senior staff should be planned for.
+Need to evaluate by dept.
+
+Additionally, the salary of the retiring employees should be analysed to plan for the budget to replace these employees given today's salary expectations.
+
+Finally, 
