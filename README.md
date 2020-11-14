@@ -8,6 +8,9 @@ The good news is that very few managers are retiring.
 
 
 ## Summary
-There will be 90,398 employees retiring. The number of employees retirng by title is as shown in this figure (insert image here)
+There will be 90,398 employees retiring. The number of employees retirng by title is as shown in this figure:
+
 ![Retiring_titles.PNG](/analysis/Retiring_titles.PNG)
+
+
 There are 1549 employees that are eligible for a mentorship program. This should be enough to mature employees to take leadership roles.
