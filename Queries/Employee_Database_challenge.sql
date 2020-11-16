@@ -43,3 +43,12 @@ JOIN titles as t
 ON t.emp_no = e.emp_no
 WHERE (de.to_date = '9999-01-01') AND (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 ORDER BY t.emp_no, t.to_date DESC;
+
+-- Additional query to list number of mentorship program employees by title
+SELECT COUNT(DISTINCT(emp_no)), 
+	title
+-- INTO mentoring_titles
+FROM mentorship_eligibility
+GROUP BY title
+ORDER BY count DESC;
+
