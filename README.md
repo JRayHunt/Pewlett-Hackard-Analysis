@@ -16,7 +16,8 @@ There will be 90,398 employees retiring. The number of employees retirng by titl
 ![Retiring_titles.PNG](/analysis/Retiring_titles.PNG)
 
 
-There are 1549 employees that are eligible for a mentorship program. This is not enough current employees to take on senior and leadership roles at Pewlett Hackard. Additional hiring of senior engineers and senior staff should be planned for.
+There are 1549 employees that are eligible for a mentorship program.
+
 Need to evaluate by dept.
 
 Additionally, the salary of the retiring employees should be analysed to plan for the budget to replace these employees given today's salary expectations.
